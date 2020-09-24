@@ -1,0 +1,275 @@
+
+.nav-link{
+	font-family: 'Roboto', sans-serif;
+	color: #707070 !important; 
+}
+.navbar-toggle {
+    z-index:3;
+}
+.navbar-go4it .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(131, 214, 167, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+nav {
+    margin-bottom: 50px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.tituloPrincipal{
+	color:#3B536D;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+	margin-bottom:30px;
+}
+.vcenter {
+  display: flex;
+  align-items: center;
+}
+.textoTitulo{
+	color:#29394B;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+	margin-bottom:30px;
+}
+.btnVerde{
+	color:#FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+	background-color:#83D6A7;
+	border:none;
+	border-radius:5px;
+	line-height:3;
+	padding-left:15px;
+	padding-right:15px;
+	margin:0 auto;
+    display:block;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	cursor:pointer;
+	text-decoration:  none;
+}
+.btnAzul{
+	color:#FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+	background-color:#1E6DC2;
+	border:none;
+	border-radius:5px;
+	line-height:3;
+	padding-left:15px;
+	padding-right:15px;
+	margin:0 auto;
+    display:block;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	cursor:pointer;
+	text-decoration:  none;
+}
+.ovaloRow{
+	background-color:#F5F5F5;
+	border-radius:326px;
+}
+.subtitulo{
+	color:#436DBD;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+}
+.textoSubtitulo{
+	color:#263345;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+}
+.finSeccion{
+	margin-bottom:80px;
+}
+.titulo{
+	color:#263345;
+	text-align:center;
+	font-weight:bold;
+}
+.tituloLeft {
+    color: #263345;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.miniMarginBot{
+	margin-bottom:20px;
+}
+.textoVentajas{
+	color:#263345;
+	text-align:left;
+}
+.numeracion{
+	color:#436DBD;
+	text-decoration: underline;
+	font-family: 'Roboto', sans-serif;
+	text-align:left;
+}
+.textoComoHacemos{
+	color:#263345;
+	font-family: 'Roboto', sans-serif;
+	text-align:left;
+}
+.subtituloVerde{
+	color:#83D6A7;
+	text-decoration: underline;
+	font-family: 'Roboto', sans-serif;
+	text-align:left;
+	font-weight:bold;
+}
+.fondoAzul{
+	background-color:#436DBD;
+}
+.tituloBlanco{
+	color:#FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	text-align:center;
+}
+.textoBlanco{
+	color:#FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+}
+.btnBlanco{
+	color:#436DBD;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+	background-color:#FFFFFF;
+	border:none;
+	border-radius:5px;
+	line-height:3;
+	padding-left:15px;
+	padding-right:15px;
+	margin:0 auto;
+    display:block;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	cursor:pointer;
+	text-decoration:  none;
+}
+.paddingSeccion{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.fondoBeige{
+	background-color:#F5F5F5;
+}
+.parrafoTexto{
+	font-family: 'Roboto', sans-serif;
+	text-align:left;
+	color:#263345;
+	font-weight: regular;
+}
+.datosContacto {
+    text-align: justify;
+    color: #646464;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+}
+.bigHr {
+    background-color: #263345 !important;
+    color: #263345 !important;
+    border: solid 1px #263345 !important;
+    height: 0.005px !important;
+	width:100%;
+}
+.noUnderline{
+	text-decoration:  none;
+}
+.btnContacto {
+    color: #83D6A7;
+    border-color: #83D6A7;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    border-style: solid;
+    cursor: pointer;
+}
+.miniTitulo {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color: #4F97E3;
+    font-weight: regular;
+}
+.tituloSeccion2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color: #3B536D;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+.formulario {
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: #707070;
+    width: 100%;
+}
+
+    .formulario:focus {
+        border-color: #707070
+    }
+
+.botonContacto {
+    background-color: #83D6A7;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    line-height:2;
+    font-family: 'Roboto', sans-serif;
+}
+.textoContacto {
+    color: #29394B;
+    margin-top:-50px;
+}
+@media only screen and (max-width: 991px) {
+    .ovaloRow{
+		background-color:#FFFFFF;
+	}
+	.circuloColumn{
+		background-color:#F5F5F5;
+		border-radius:50px;
+		width:100%;
+		height: auto;
+		padding-top:30px;
+		padding-bottom:30px;
+		margin-bottom:30px;
+	}
+	.finSeccion{
+		margin-bottom:40px;
+	}
+    .tituloSeccion2 {
+        text-align: center;
+    }
+    .textoContacto {
+        text-align: center;
+    }
+
+}
+.textoFondo {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+@media only screen and (max-width: 540px) {
+	.ovaloRow{
+		background-color:#FFFFFF;
+	}
+	.textoVentajas{
+		color:#263345;
+		text-align:center;
+	}
+	.numeracion{
+		color:#436DBD;
+		text-decoration: underline;
+		font-family: 'Roboto', sans-serif;
+		text-align:center;
+	}
+	.textoComoHacemos{
+		color:#263345;
+		font-family: 'Roboto', sans-serif;
+		text-align:center;
+	}
+    .tituloPrincipal{
+        font-size:x-large;
+    }
+}

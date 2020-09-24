@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 421 421" style="enable-background:new 0 0 421 421;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#41D4A3;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#42B88E;}
+	.st3{fill:#B1EDD9;}
+</style>
+<path class="st0" d="M210.5,421L210.5,421C94.24,421,0,326.76,0,210.5l0,0C0,94.24,94.24,0,210.5,0l0,0
+	C326.76,0,421,94.24,421,210.5l0,0C421,326.76,326.76,421,210.5,421z"/>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M210.5,420.9L210.5,420.9C94.3,420.9,0.1,326.7,0.1,210.5l0,0C0.1,94.3,94.3,0.1,210.5,0.1l0,0
+				c116.2,0,210.4,94.2,210.4,210.4l0,0C420.9,326.7,326.7,420.9,210.5,420.9z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st1">
+			<g>
+				<path class="st2" d="M148.23,422.37h36.11v-20.39c33.36-33.74,56.34-104.39,56.34-186.12S217.7,63.49,184.34,29.75V8.63h-49.08
+					v0.25c-53.32,5.18-95.78,95.86-95.78,206.99c0,114.45,45.04,207.24,100.6,207.24C142.83,423.11,145.54,422.82,148.23,422.37z"/>
+				<ellipse class="st3" cx="184.34" cy="215.87" rx="100.6" ry="207.24"/>
+				<ellipse class="st0" cx="184.34" cy="215.87" rx="82.52" ry="170"/>
+				<ellipse class="st3" cx="187.45" cy="215.87" rx="61.73" ry="127.16"/>
+				<ellipse class="st0" cx="190.55" cy="215.87" rx="39.76" ry="81.9"/>
+				<ellipse class="st3" cx="193.65" cy="216.82" rx="21.14" ry="51.89"/>
+				<ellipse class="st0" cx="193.65" cy="216.82" rx="8.72" ry="21.41"/>
+			</g>
+			<g>
+				<polygon class="st2" points="384.3,209.63 194.15,212.17 191.23,220.74 384.37,218.94 				"/>
+				<polygon class="st3" points="367.36,249.45 313.7,251.23 305.77,218.87 374.86,218.88 				"/>
+				<polygon class="st3" points="313.05,181.77 366.7,179.99 374.64,212.34 305.55,212.34 				"/>
+			</g>
+			<g>
+				<polygon class="st2" points="344.88,101.39 191.2,213.4 193.77,222.08 350.32,108.95 				"/>
+				<polygon class="st3" points="354.08,143.68 311.32,176.15 286.15,154.34 342.52,114.4 				"/>
+				<polygon class="st3" points="271.4,118.2 314.16,85.73 339.34,107.55 283.21,148.75 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

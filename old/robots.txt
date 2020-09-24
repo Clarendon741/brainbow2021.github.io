@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /Default.aspx
+Allow:  /App_Code/
+Allow: /App_Data/
+Allow:  /assets/
+Allow: /images/
+
+sitemap: http://brainbow.mx/sitemap.xml
